@@ -10,7 +10,7 @@
         Dados do Servidor
     </h1>
     <?php 
-    phpinfo();
+        phpinfo();
     ?>
     
 </body>
